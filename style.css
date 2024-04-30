@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-container {
+    width: 500px;
+    height:400px;
+    border: 1px solid lightgray;
+    margin: 120px auto;
+    padding: 100px auto;
+    border-radius: 10px;
+}
+
+.card {
+    color: rgb(18, 16, 16);
+    padding: 30px 60px;
+}
+.heading {
+    font-size: 40px;
+    color: rgb(53, 52, 52);
+    font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 10;
+  line-height: 70px;
+}
+
+.para {
+    font-size: 20px;
+    color: rgb(104, 103, 103);
+}
+
+.image {
+    width: 100px;
+    border-radius: 50%;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.image2 {
+    padding-left: 100px;
+    /* padding-top: 30px; */
+}
+
+
+.btn1 {
+    border-top: 1px solid lightgrey;
+}
+
+.para2 {
+    padding: 30px;
+    padding-left: 60px;
+    color: rgb(53, 53, 239);
+    font-size: 20px;
+    font-weight: 500;
+}
